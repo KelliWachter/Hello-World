@@ -12,3 +12,13 @@ Good question!
 
 **Why isn't this bold?**
 ** Why isn't this bold!? ** Oh, you can't bold a header?? That's odd.
+
+This is something something footnotes filler text.[^­foo­tno­teN­ame]
+
+lkjsldkfjs
+sdf
+sdf
+sdf
+sf
+
+[^­foo­tno­teN­ame]: The footnote!
